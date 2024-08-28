@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "name": "Pham Tan Dung",
+      "subjects": [
+        {
+          "name": "Math",
+          "scores": [
+            { "0": 10, "1": 9, "2": 8 }
+          ]
+        },
+        {
+          "name": "Art",
+          "scores": [
+            { "0": 10, "1": 9, "2": 8 }
+          ]
+        }
+      ]
+    },
+    {
+        "id": "1",
+        "name": "Pham van Khai",
+        "subjects": [
+          {
+            "name": "Physics",
+            "scores": [
+              { "0": 10, "1": 9, "2": 8 }
+            ]
+          },
+          {
+            "name": "Biology",
+            "scores": [
+              { "0": 10, "1": 9, "2": 8 }
+            ]
+          }
+        ]
+      }
+  ]
+  
